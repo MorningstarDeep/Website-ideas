@@ -1,0 +1,408 @@
+# Phase 1 jargon seeds.
+# Rule: every line must be a term a person OUTSIDE the niche would not know.
+# No "X calculator" — harvest.py appends tool suffixes itself.
+
+# --- fiber / textile ---
+warp take up
+yarn wpi
+yarn grist
+twist per inch spinning
+knitting gauge swatch
+sweater ease
+sock heel gusset
+yarn substitution yardage
+weight of fiber dye
+quilt binding yardage
+quilt backing yardage
+half square triangle
+foundation paper piecing
+batting loft
+longarm quilting
+pattern grading
+dart rotation
+seam allowance grading
+bias binding strip
+pinch pleat drapery
+curtain fullness
+roman shade ring spacing
+upholstery yardage
+welt cord yardage
+corset pattern draft
+eva foam armor
+punch needle
+tufting cloth
+inkle loom warp
+tapestry warp
+
+# --- leather / shoes ---
+leather strap length
+belt hole spacing
+stitching irons spi
+leather weight ounces
+veg tan thickness
+shoe last size
+
+# --- paper / print / bindery ---
+paper basis weight
+book spine width
+signature imposition
+saddle stitch creep
+bleed and slug
+dieline
+gang run printing
+screen mesh count
+halftone lpi
+total area coverage ink
+dot gain
+spot color separation
+perfect binding
+case wrap cover
+book block
+paper bulk ppi
+zine imposition
+booklet imposition
+letterpress impression
+comic page gutter
+grommet spacing banner
+large format tiling
+
+# --- garment decoration ---
+embroidery stitch count
+embroidery digitizing density
+pull compensation embroidery
+plastisol underbase
+htv weeding
+dtf transfer
+sublimation mug wrap
+heat press dwell time
+
+# --- signage ---
+letter height viewing distance
+channel letter
+ada braille sign
+
+# --- 3d print / cnc / fab ---
+filament shrinkage compensation
+resin exposure test
+elephant foot compensation
+extrusion multiplier
+esteps calibration
+nozzle line width
+retraction tuning
+kerf compensation
+laser power speed grid
+engraving dpi
+chipload
+stepover cnc
+surface speed sfm
+tap drill size
+bend allowance k factor
+sheet metal flat pattern
+press brake bend deduction
+weld bead leg size
+gear module
+dividing head
+lathe change gears
+
+# --- wood ---
+board foot
+cut list optimizer
+sheet goods yield
+stair stringer rise run
+rafter length
+hip valley rafter
+compound miter angle
+crown molding spring angle
+segmented turning
+shelf sag deflection
+wood movement seasonal
+dovetail spacing
+cabinet reveal
+drawer slide clearance
+
+# --- building / diy ---
+rebar spacing
+paver base depth
+retaining wall block
+mortar bag coverage
+thinset coverage
+grout coverage
+herringbone tile layout
+tile layout offset
+drywall sheet takeoff
+joint compound coverage
+joist span
+stud spacing
+deck board spacing
+picture frame deck
+fence post spacing
+gate sag brace
+downspout sizing
+french drain slope
+sprinkler head spacing
+drip emitter gph
+mulch yards
+pond liner size
+raised bed soil volume
+
+# --- garden / ag ---
+growing degree days
+chill hours
+succession planting interval
+seed starting date frost
+plant population row spacing
+transplant spacing
+hydroponic ec ppm
+compost carbon nitrogen ratio
+fertilizer rate per 1000 sq ft
+lime application rate
+seeding rate per acre
+pasture stocking rate
+hay bale weight
+greenhouse heat loss
+shade cloth percentage
+
+# --- bees / poultry ---
+honey super frames
+varroa mite wash
+brood frame
+incubation candling schedule
+brooder temperature schedule
+feed conversion ratio poultry
+chicken coop space per bird
+
+# --- aquarium / reptile ---
+aquarium stocking
+co2 drop checker bps
+ei dosing
+reef alkalinity dkh
+sump baffle
+turnover rate aquarium
+water change dilution
+ferguson zone uvi
+basking gradient
+
+# --- food craft ---
+bakers percentage
+levain hydration
+desired dough temperature
+friction factor dough
+cake tin conversion
+cake serving chart
+tier dowel support
+ganache ratio
+chocolate tempering curve
+isomalt sugar stage
+brine percentage
+cure 1 nitrite ppm
+sausage fat ratio
+meat yield percentage
+sous vide thickness time
+rennet dosage
+cheese whey yield
+
+# --- brewing / drinks ---
+mash efficiency
+ibu tinseth
+priming sugar co2 volumes
+sulfate chloride ratio
+keg carbonation psi
+chaptalization
+acid adjustment must
+brew ratio coffee
+tds extraction yield
+cocktail dilution
+abv blending
+syrup brix
+
+# --- foodservice ---
+food cost percentage
+yield percentage recipe
+recipe batch scaling
+plate cost
+catering quantities per person
+
+# --- music / audio ---
+delay time ms bpm
+note frequency cents
+transposing instrument
+capo key chart
+string tension scale length
+fret spacing
+speaker port tuning
+box volume vas qts
+crossover slope
+room modes
+rt60
+spl distance loss
+dbfs to dbu
+lufs loudness
+cable capacitance loss
+
+# --- stage / av ---
+dmx address
+lee rosco gel conversion
+lighting throw distance beam angle
+truss point load
+timecode drop frame
+bitrate to file size
+pulldown frame rate
+subtitle cps reading speed
+srt timing offset
+lut color space
+
+# --- models / rc / rockets ---
+scale conversion model
+model railroad curve radius
+easement transition curve
+grade percent model railroad
+nmra clearance
+dcc address
+final drive ratio rc
+pinion spur gear
+lipo c rating
+wing cube loading
+prop pitch speed
+thrust to weight
+kv rpm motor
+servo torque
+rocket stability caliber
+parachute descent rate
+nd filter shutter 180
+
+# --- miniatures ---
+miniature base size
+paint thinning ratio
+magnet size miniature
+
+# --- sport / outdoor ---
+arrow spine
+foc arrow
+fletching offset
+line capacity spool
+prop slip boat
+sail area displacement
+righting moment
+halyard length
+gear inches bicycle
+gain ratio bicycle
+spoke length
+chain length bicycle
+sprocket gearing speed
+tire size speedometer error
+track lane stagger
+horse feed ration
+arena footing depth
+
+# --- automotive / electrical ---
+compression ratio cc
+cam degree
+carb cfm
+injector duty cycle
+wire gauge ampacity length
+voltage drop wire
+battery ah runtime
+solar string voltage temperature
+inverter sizing
+trailer tongue weight
+axle load distribution
+
+# --- electronics / radio ---
+resistor divider
+led series resistor
+pcb trace width current
+via current capacity
+impedance 50 ohm trace
+dipole antenna length
+swr coax loss
+transformer turns ratio
+heat sink thermal resistance
+lifepo4 cell balance
+
+# --- photo / video ---
+hyperfocal distance
+crop factor equivalence
+500 rule star trail
+nd filter stops
+flash guide number
+timelapse interval clip length
+stop motion frame count
+macro magnification extension tube
+bellows factor
+panorama overlap
+sensor sampling arcsec pixel
+eyepiece exit pupil
+
+# --- candle / soap / resin ---
+fragrance load percentage
+wick size guide
+container wax weight
+lye superfat discount
+sap value oils
+epoxy resin mold volume
+resin mix ratio weight volume
+pigment ratio resin
+
+# --- pottery / glass / jewelry ---
+cone temperature kiln
+kiln ramp hold schedule
+glaze unity molecular formula
+glaze batch scaling
+clay shrinkage
+clay weight for size
+glass fusing schedule
+annealing soak
+ring size conversion
+casting weight specific gravity
+sprue weight
+stone mm to carat
+bead count strand
+came lead glass
+
+# --- events ---
+round table seating
+dance floor size
+tent size guest
+bar quantities wedding
+flower stems centerpiece
+balloon garland length
+invitation postage weight
+
+# --- shipping / ops ---
+dimensional weight
+pallet ti hi
+container load plan
+girth measurement
+avery label sheet
+barcode check digit
+gtin check digit
+
+# --- education ---
+weighted grade
+exam curve
+attendance percentage
+credit hour load
+lexile reading level
+bell schedule
+
+# --- writing / publishing ---
+kdp spine width
+trim size margins
+manuscript page count
+ebook file size
+
+# --- beauty / body art ---
+hair developer volume ratio
+toner mixing ratio
+tattoo stencil sizing
+lash extension map
+nail tip size
+
+# --- design / web (narrow only) ---
+modular type scale
+baseline grid
+fluid typography clamp
+apca contrast
+oklch color
+safe area inset
+app store screenshot size

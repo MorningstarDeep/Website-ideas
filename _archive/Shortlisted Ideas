@@ -1,0 +1,3359 @@
+1. Gamepad / Controller Tester
+
+Core tool: Browser-based controller diagnostic.
+
+Features to consider:
+
+Button tester
+Analog stick tester
+Trigger tester
+D-pad tester
+Axis visualization
+Stick drift test
+Deadzone test
+Vibration/haptic test
+Controller detection
+Input value display
+Xbox/PlayStation/generic controller compatibility
+
+Keyword cluster:
+
+gamepad tester
+gamepad test
+controller tester
+controller test
+game controller test
+gamepad test online
+joystick tester
+joystick test
+controller button test
+analog stick test
+controller drift test
+stick drift test
+gamepad drift test
+controller vibration test
+
+
+2. Keyboard Tester
+
+Core tool: Test every physical key directly in browser.
+
+Features:
+
+Visual keyboard
+Individual key testing
+Stuck-key detection
+Double-key/chatter detection
+Key rollover
+NKRO test
+Ghosting test
+Key-code display
+Hold-duration detection
+Keyboard layout recognition
+Windows/Mac layouts
+
+Keyword cluster:
+
+keyboard tester
+keyboard test
+keyboard test online
+keyboard checker
+key tester
+key test
+keyboard key test
+test keyboard
+keyboard ghosting test
+keyboard rollover test
+n key rollover test
+NKRO test
+keyboard chatter test
+stuck key test
+keyboard key checker
+
+
+3. Webcam Test
+
+Core tool: Browser camera diagnostic.
+
+Features:
+
+Camera preview
+Camera detection
+Resolution
+FPS
+Aspect ratio
+Camera selection
+Snapshot
+Focus/quality information where available
+Permission status
+Browser compatibility
+Camera + microphone check
+
+Keyword cluster:
+
+webcam test
+webcam tester
+camera test
+webcam check
+camera checker
+test webcam
+test camera
+webcam test online
+camera test online
+webcam resolution test
+webcam fps test
+camera resolution test
+webcam microphone test
+
+
+4. Microphone Test
+
+Core tool: Browser microphone diagnostic.
+
+Features:
+
+Live waveform
+Input level
+Peak level
+Clipping detection
+Recording/playback
+Input device selection
+Sample-rate information
+Stereo/mono
+Frequency visualization
+Mic permission check
+
+Keyword cluster:
+
+mic test
+microphone test
+microphone tester
+mic tester
+mic check
+microphone check
+test microphone
+test mic
+microphone test online
+mic test online
+microphone volume test
+microphone quality test
+mic level test
+microphone frequency test
+
+
+5. Speaker Test
+
+Core tool: Test speakers/output channels.
+
+Features:
+
+Left channel
+Right channel
+Stereo test
+Center channel
+Channel identification
+Frequency tones
+Bass test
+Treble test
+Balance test
+Volume test
+Distortion/rattle test guidance
+
+Keyword cluster:
+
+speaker test
+speaker tester
+speaker test online
+test speakers
+speaker check
+audio speaker test
+left right speaker test
+stereo speaker test
+speaker sound test
+bass test
+speaker frequency test
+audio test
+
+
+6. Headphone / Earphone Test
+
+Core tool: Headphone diagnostic.
+
+Features:
+
+Left/right channel
+Stereo test
+Channel separation
+Frequency sweep
+Bass test
+Treble test
+Balance
+Mono compatibility
+Headphone channel identification
+
+Keyword cluster:
+
+headphone test
+headphone tester
+headphone test online
+earphone test
+earphone tester
+headset test
+headphone check
+earphone check
+left right headphone test
+headphone stereo test
+headphone sound test
+headphone bass test
+
+
+7. Surround Sound Test
+
+I'd keep this separate from generic speaker testing during validation because the search intent is meaningfully different.
+
+Features:
+
+5.1 test
+7.1 test
+Left/right
+Center
+Rear channels
+Surround channels
+Subwoofer/LFE
+Channel identification
+Browser compatibility warnings
+
+Keyword cluster:
+
+surround sound test
+surround sound test online
+5.1 surround sound test
+7.1 surround sound test
+5.1 speaker test
+7.1 speaker test
+surround speaker test
+surround audio test
+channel test
+5.1 audio test
+
+
+8. Screen / Monitor Test
+
+Core tool: General display diagnostic.
+
+Features:
+
+Solid colors
+Brightness
+Contrast
+Gradient
+Banding
+Uniformity
+Sharpness
+Backlight bleed test
+Color test
+Fullscreen mode
+Resolution information
+
+Keyword cluster:
+
+screen test
+monitor test
+display test
+screen checker
+monitor checker
+screen test online
+monitor test online
+display test online
+LCD test
+LED screen test
+monitor color test
+screen color test
+monitor uniformity test
+backlight bleed test
+
+
+9. Dead / Stuck Pixel Test
+
+This deserves its own validation, even if ultimately related to screen testing.
+
+Features:
+
+Fullscreen color cycling
+Black
+White
+Red
+Green
+Blue
+Cyan/magenta/yellow
+Stuck-pixel identification
+Dead-pixel identification
+Flashing patterns
+Pixel grid/zoom
+
+Keyword cluster:
+
+dead pixel test
+dead pixel tester
+dead pixel check
+dead pixel checker
+screen dead pixel test
+monitor dead pixel test
+stuck pixel test
+stuck pixel checker
+pixel test
+dead pixel test online
+monitor pixel test
+
+
+10. Refresh Rate Test
+
+Core tool: Determine/display browser-observed refresh rate and frame timing.
+
+Features:
+
+Hz measurement
+60/75/120/144/165/240/360Hz detection
+Frame timing
+FPS
+Dropped-frame indication
+Motion test
+Browser limitations
+Screen information
+
+Keyword cluster:
+
+refresh rate test
+refresh rate checker
+refresh rate test online
+monitor refresh rate test
+screen refresh rate test
+check refresh rate
+test monitor Hz
+refresh rate checker online
+144hz test
+120hz test
+240hz test
+
+
+11. Mouse Tester
+
+This wasn't in your latest shortlist, but keep it in the backlog because it belongs to the same research category and is too important to discard before validation.
+
+Features:
+
+Button test
+Scroll test
+Double-click test
+Mouse movement
+Click interval
+Chattering detection
+Polling rate
+DPI estimation
+
+Keyword cluster:
+
+mouse tester
+mouse test
+mouse test online
+mouse checker
+mouse button test
+mouse click test
+double click test
+mouse double click test
+mouse scroll test
+mouse polling rate test
+mouse DPI test
+mouse chattering test
+
+
+12. Touchscreen Test
+
+Also keep as a backlog candidate.
+
+Features:
+
+Dead-zone detection
+Multi-touch
+Touch-point visualization
+Drawing test
+Edge/corner testing
+Ghost touch detection
+
+Keyword cluster:
+
+touchscreen test
+touch screen test
+touchscreen tester
+touchscreen checker
+touch test
+touch screen test online
+multi touch test
+touchscreen dead zone test
+ghost touch test
+
+
+
+1. Image Color Picker + Analyzer
+Core tool
+
+"Pick any color from an image, screenshot, photo or graphic."
+
+This is the strongest opportunity because there is already a meaningful search ecosystem and multiple specialist sites are built entirely around this problem. Current tools support uploading/pasting images and extracting HEX/RGB/HSL and other formats.
+
+Main keywords
+image color picker
+color picker from image
+pick color from image
+image color picker online
+color picker online
+color picker from screen
+pick color from screenshot
+color picker from screenshot
+extract color from image
+HEX color picker image
+RGB color picker image
+color picker from photo
+Tool I'd build
+
+Image Color Picker & Analyzer
+
+Input
+Upload image
+Drag & drop
+Ctrl + V screenshot
+Paste image URL
+JPG
+PNG
+WebP
+GIF
+Pixel picker
+
+Click/hover anywhere:
+
+HEX      #3A7BD5
+RGB      58, 123, 213
+HSL      214°, 65%, 53%
+HSV      214°, 73%, 84%
+CMYK     ...
+Essential UX
+pixel magnifier
+zoom
+cursor coordinates
+color history
+copy buttons
+multiple selected colors
+undo/remove selected colors
+Then go beyond the basic competitors
+
+Automatic palette extraction
+
+Dominant Colors
+
+#3A7BD5
+#F4F6F8
+#172033
+#FFFFFF
+#E76F51
+
+Plus:
+
+5/10/20-color palette
+percentage of each color
+CSS variables
+downloadable palette
+PNG palette
+JSON
+complementary colors
+analogous colors
+Developer mode
+
+Generate:
+
+--color-primary: #3A7BD5;
+--color-secondary: #E76F51;
+
+Also:
+
+HEX
+RGB
+HSL
+OKLCH
+CSS
+Tailwind equivalent
+Killer feature
+
+Screenshot mode
+
+Paste a screenshot → click any UI element → immediately get its exact color.
+
+That's a very natural workflow for developers/designers.
+
+Why I like it
+
+You aren't building another generic image editor.
+
+You're building:
+
+"What color is this?"
+
+That's a very clean search intent.
+
+🥈 2. Image Color Replacer
+Core tool
+
+Upload image → select a color → replace it with another color.
+
+Main keywords
+change color of image
+image color changer
+change image color
+replace color in image
+recolor image
+recolor image online
+color changer
+change color of picture
+replace specific color in image
+image color replacement
+change one color in image
+
+The important demand signal here is the broader change color of image / image color changer ecosystem identified in the previous research.
+
+Tool I'd build
+Image Color Replacer
+
+Upload:
+
+logo.png
+
+Then:
+
+Step 1
+
+Pick source color
+
+Eyedropper:
+
+#1267A8
+
+Step 2
+
+Choose replacement
+
+#E63946
+
+Step 3
+
+Tolerance
+
+0 ─────────●──── 100
+           35
+Controls
+tolerance
+color picker
+target color
+preserve brightness
+preserve saturation
+preserve texture
+edge smoothing
+anti-aliasing
+replace connected region
+replace all matching colors
+multiple color replacements
+transparency preservation
+Before / After
+
+Interactive slider.
+
+Example
+
+A user uploads a blue logo:
+
+Blue → Red
+
+without affecting:
+
+shadows
+gradients
+transparency
+texture
+Killer feature
+
+Multi-color replacement
+
+#FF0000 → #00FF00
+#0000FF → #FFFF00
+#FFFFFF → transparent
+Another strong use case
+
+Screenshot recoloring
+
+Upload a screenshot and change a UI theme:
+
+Blue buttons → purple buttons
+
+This makes the tool much more useful than a generic "change image color" tool.
+
+Technical difficulty
+
+Easy–Medium
+
+A basic version can run entirely in the browser using Canvas/pixel manipulation.
+
+Verdict
+
+🟢 Validated and worth serious consideration.
+
+🥉 3. Image Merger / Combiner
+Core tool
+
+Combine multiple images into one image.
+
+Not a full collage maker.
+
+The positioning should be:
+
+Fast image combining / comparison / stitching.
+
+Main keywords
+merge two images
+merge images
+combine images
+combine two images
+combine pictures
+merge photos
+put two images side by side
+join images
+image merger
+image combiner
+merge images online
+combine images online
+
+The previous research found meaningful demand around merge two images, with established PDF/image utility competitors receiving organic traffic.
+
+Tool I'd build
+Image Combiner
+
+Upload:
+
+2–50 images
+
+Then choose:
+
+Layout
+Horizontal
+Vertical
+2-column
+3-column
+Grid
+Custom
+Sizing
+Original size
+Same width
+Same height
+Same dimensions
+Fit
+Cover
+Spacing
+gap
+padding
+margins
+alignment
+Styling
+background
+border
+rounded corners
+shadow
+Comparison mode
+
+This is where I'd differentiate.
+
+Before / After
+
+BEFORE              AFTER
+────────────        ────────────
+     IMAGE               IMAGE
+
+Automatic equalization.
+
+Screenshot mode
+
+Paste two screenshots:
+
+Compare Screenshots
+
+Automatically:
+
+align dimensions
+put side-by-side
+label them
+add divider
+Output
+PNG
+JPG
+WebP
+Killer feature
+
+Smart Screenshot Combiner
+
+Paste 2–10 screenshots → automatically creates a clean comparison sheet.
+
+This gives you a strong use case beyond "collage maker."
+
+Technical difficulty
+
+Easy
+
+Verdict
+
+🟢 Validated.
+
+
+
+
+
+1. PDF Page Extractor
+
+This is the PDF idea I'd choose first.
+
+Core tool
+
+"Select exactly the pages you need and create a new PDF."
+
+Main keywords
+extract pages from pdf
+extract pdf pages
+pdf page extractor
+extract specific pages from pdf
+extract pages from pdf online
+save certain pages from pdf
+extract selected pages pdf
+get pages from pdf
+copy pages from pdf
+take pages from pdf
+Tool I'd build
+PDF Page Extractor
+
+Upload PDF.
+
+Immediately generate visual page thumbnails.
+
+User can click:
+
+☑ 1
+☐ 2
+☑ 3
+☐ 4
+☑ 5
+☑ 6
+
+Then:
+
+Extract Pages
+
+→ Selected Pages.pdf
+
+Page selection
+
+Support:
+
+1,3,5-8,12
+
+Also:
+
+single pages
+ranges
+open-ended ranges
+last page
+odd pages
+even pages
+
+PDFsam already demonstrates that flexible syntax such as 2,5-7,12- and batch extraction is useful functionality.
+
+Advanced workflow
+
+Multiple extraction groups
+
+For example:
+
+GROUP 1
+Pages 1-5
+
+GROUP 2
+Pages 8, 12, 17-20
+
+GROUP 3
+Pages 31-40
+
+Output:
+
+introduction.pdf
+selected-evidence.pdf
+appendix.pdf
+Page controls
+
+While selecting:
+
+rotate
+reorder
+delete
+preview
+zoom
+page labels
+Batch mode
+
+Upload:
+
+report1.pdf
+report2.pdf
+report3.pdf
+
+Extract:
+
+pages 1-5
+
+from all three PDFs.
+
+PDFsam supports bulk extraction across multiple PDFs, which validates this as a useful advanced workflow.
+
+Privacy angle
+
+This should ideally run 100% in-browser.
+
+PDFsam itself emphasizes local processing for its extraction workflow, which is particularly compelling for sensitive documents.
+
+Your positioning could therefore be:
+
+Extract PDF pages privately — no upload, no signup.
+
+Killer feature
+
+Visual page selection.
+
+Most users shouldn't have to think:
+
+"I need pages 14, 17, 21–26."
+
+They should simply see thumbnails and click.
+
+Technical difficulty
+
+Easy–Medium
+
+Verdict
+
+🟢 Strongest PDF opportunity.
+
+🥈 2. Advanced PDF Splitter
+
+This is related to #1, but the intent is different.
+
+Page Extractor
+
+"I want these pages."
+
+PDF Splitter
+
+"I want this PDF divided into multiple PDFs."
+
+That distinction gives you a larger tool.
+
+Main keywords
+pdf splitter
+split pdf
+pdf split
+split pdf online
+split pdf into pages
+split pdf by pages
+split pdf every page
+split pdf every n pages
+split pdf by size
+split pdf by bookmarks
+split large pdf
+divide pdf
+separate pdf pages
+Tool I'd build
+Smart PDF Splitter
+
+Upload PDF.
+
+Then choose:
+
+1. Split every page
+100-page PDF
+↓
+100 PDFs
+2. Split every N pages
+Every: [10] pages
+
+→ 10 PDFs.
+
+3. Split at page numbers
+5, 12, 24, 37
+
+→ 5 documents.
+
+4. Split by page ranges
+1-10
+11-25
+26-50
+51-100
+5. Split by file size
+Maximum:
+[5 MB]
+
+This is a particularly useful workflow for email/upload limits. PDFsam supports splitting by target size.
+
+6. Split by bookmarks
+
+For a book/report:
+
+Chapter 1.pdf
+Chapter 2.pdf
+Chapter 3.pdf
+...
+
+PDFsam supports splitting according to bookmark levels, including using bookmark names in output filenames.
+
+7. Split odd/even
+Odd pages → odd.pdf
+Even pages → even.pdf
+Visual mode
+
+Show thumbnails.
+
+User can click:
+
+"Split here"
+
+between pages.
+
+PDFsam itself offers a visual splitting workflow in its Visual edition, demonstrating the usefulness of thumbnail-based splitting.
+
+Output
+
+Automatically ZIP:
+
+document_split.zip
+
+with sensible names:
+
+01-introduction.pdf
+02-chapter-1.pdf
+03-chapter-2.pdf
+...
+Killer feature
+
+Smart Split
+
+Let the user select:
+
+Split by chapters
+
+and use PDF bookmarks automatically.
+
+Or:
+
+Split every 10 pages
+
+Or:
+
+Keep every output under 5 MB
+
+That's much more useful than a basic "Split PDF" button.
+
+Technical difficulty
+
+Easy–Medium
+
+Verdict
+
+🟢 Strongly validated.
+
+
+
+
+
+1. URL Redirect / Chain Checker
+This is my #1.
+
+The demand validation here is unusually good.
+
+Three relevant specialist sites are already receiving substantial traffic:
+
+redirect-checker.org: ~341.7K visits/month, ~33.1K organic
+wheregoes.com: ~286.9K visits/month, ~33.8K organic
+httpstatus.io: ~484.8K visits/month, ~16.8K organic
+
+The three sites are also explicitly identified as competitors/alternatives to one another.
+
+That's exactly the kind of multiple-competitor validation we're looking for.
+
+Keyword ecosystem
+redirect checker
+url redirect checker
+redirect check
+http redirect checker
+website redirect checker
+redirect chain checker
+redirect chain
+check redirects
+url redirect checker online
+http status checker
+301 redirect checker
+302 redirect checker
+
+For example, redirect-checker.org ranks #1 in Germany for:
+
+redirect checker — 1,300
+http redirect checker — 1,000
+url redirect checker — 720
+
+while httpstatus.io ranks for redirection checker at 6,600 and redirect checker at 2,900 in India.
+
+Tool
+URL Redirect Checker
+
+User enters:
+
+https://example.com
+
+Output:
+
+REDIRECT CHAIN
+
+1. https://example.com
+   301
+
+↓
+2. https://www.example.com
+   301
+
+↓
+3. https://www.example.com/home
+   200 OK
+Features
+
+Basic
+
+final URL
+HTTP status
+redirect type
+response time
+HTTPS
+canonical URL
+
+Advanced
+
+complete redirect chain
+301
+302
+307
+308
+meta refresh
+JavaScript redirects
+redirect loops
+excessive redirects
+HTTP → HTTPS
+www → non-www
+trailing slash changes
+SEO mode
+
+This is where I'd differentiate.
+
+Show:
+
+⚠️ 4 redirect hops
+
+⚠️ Temporary 302 redirect detected
+
+⚠️ Redirect chain should ideally be shortened
+
+🟢 Final destination returns 200
+
+Bulk mode
+
+Paste 100 URLs:
+
+URL
+Status
+Redirects
+Final URL
+Response time
+
+Export CSV.
+
+Killer feature
+
+Visual redirect chain
+
+Instead of dumping technical output:
+
+URL
+ ↓
+301
+ ↓
+301
+ ↓
+302
+ ↓
+200
+
+This makes the tool much easier for non-technical users.
+
+Verdict
+
+🟢 VALIDATED
+
+This is the first one I'd seriously build.
+
+🥈 2. Website / URL Legitimacy Checker
+
+This is different from a generic "website security scanner."
+
+The user asks:
+
+"Is this website legit?"
+
+And there is extremely strong evidence that people search for this problem.
+
+Competitor validation
+
+URLVoid receives approximately:
+
+1.22M visits/month
+
+with approximately:
+
+152.5K organic visits/month.
+
+Its top US keywords include:
+
+website checker — 22,200
+site checker — 12,100
+is this site legit — 6,600
+check site web — 14,800
+
+This is excellent validation because the traffic is directly related to the tool's problem rather than an unrelated section of the domain.
+
+Keyword ecosystem
+is this website legit
+is this site legit
+website checker
+site checker
+website legitimacy checker
+website safety checker
+is this website safe
+check website safety
+url checker
+website reputation checker
+check suspicious website
+Tool
+Website Legitimacy Checker
+
+User enters:
+
+https://example.com
+
+Then the tool gives a risk report.
+
+Checks
+Domain
+domain age
+registration date
+expiry
+registrar
+WHOIS availability
+nameservers
+HTTPS
+HTTPS enabled
+SSL certificate
+certificate expiry
+issuer
+hostname match
+Reputation
+
+Cross-check available reputation sources.
+
+URL structure
+
+Flag:
+
+suspicious TLD
+excessive subdomains
+IP-address URL
+suspicious characters
+punycode
+URL shorteners
+unusual ports
+Website signals
+redirects
+final domain
+suspicious iframe behavior
+download behavior
+mixed content
+Output
+
+Instead of saying simply:
+
+Safe / Unsafe
+
+I'd give:
+
+Website Risk Report
+
+Risk: 🟢 Low
+
+HTTPS: ✓
+
+Domain age: 8 years
+
+Redirects: 1
+
+Suspicious URL patterns: None
+
+Reputation flags: None found
+
+Then:
+
+Why?
+
+The domain has been registered for several years, uses valid HTTPS, and no obvious suspicious URL patterns were detected.
+
+Important
+
+Do not promise:
+
+"This website is safe."
+
+Instead:
+
+"No obvious risk signals detected."
+
+Because no automated checker can guarantee safety.
+
+Killer feature
+
+Explain the result.
+
+People don't want a database lookup.
+
+They want:
+
+"Should I trust this site?"
+
+Verdict
+
+🟢 VALIDATED
+
+This is potentially a very large search opportunity, although the security/reputation space has stronger competition than redirect checking.
+
+🥉 3. URL Encoder / Decoder
+
+This one has very strong direct validation.
+
+URL Encoder receives:
+
+136.85K visits/month
+
+and approximately:
+
+42.5K organic visits/month in June 2026.
+
+Its top US keywords include:
+
+url encode — 5,400
+url encode / urlencode
+encode the url — 6,600
+url encoder — 6,600
+urlencoder — 1,300
+
+And July data shows organic traffic around 45.6K, so this isn't merely a one-month anomaly.
+
+Keyword ecosystem
+url encoder
+url encode
+urlencoder
+encode url
+encode the url
+url decoder
+url decode
+decode url
+percent encoding
+url percent encoding
+encode URI
+decode URI
+Tool
+URL Encoder / Decoder
+
+Two-panel interface:
+
+ENCODE
+────────────────────
+https://example.com/hello world
+
+        ↓
+
+https%3A%2F%2Fexample.com%2Fhello%20world
+Features
+URL encode
+URL decode
+encodeURIComponent
+decodeURIComponent
+percent encoding
+UTF-8
+query-string encoding
+path encoding
+Developer mode
+
+Add:
+
+Characters
+
+Space → %20
+& → %26
+? → %3F
+# → %23
+Advanced
+automatic detection
+encode/decode toggle
+live conversion
+copy
+clear
+swap
+history
+batch URLs
+API examples
+Developer helpers
+
+Generate:
+
+encodeURIComponent("...")
+urllib.parse.quote("...")
+urlencode("...")
+
+This turns a simple encoder into a genuinely useful developer utility.
+
+Killer feature
+
+Explain what's encoded.
+
+For example:
+
+https://example.com/search?q=hello world
+
+Highlight:
+
+→ %20
+
+? → %3F
+
+etc.
+
+Competition
+
+There are several established tools, but the direct traffic validation is excellent.
+
+Verdict
+
+🟢 VALIDATED
+
+Very good candidate for a small developer-tool site.
+
+4. HTTP Status / URL Status Checker
+
+This overlaps with #1, but I would treat it as a separate product if positioned correctly.
+
+Demand validation
+
+HTTPStatus.io gets approximately:
+
+484.8K total visits/month
+
+and:
+
+16.75K organic visits/month.
+
+Its top India keywords include:
+
+redirection checker — 6,600
+status code — 5,400
+redirect checker — 2,900
+
+The important part is that its audience is clearly looking for HTTP/URL diagnostics.
+
+Keywords
+http status checker
+http status code checker
+url status checker
+website status checker
+check http status
+http response checker
+status code checker
+check url status
+website response checker
+http headers checker
+Tool
+HTTP Status Checker
+
+Enter URL.
+
+Output:
+
+200 OK
+
+Response time:
+184 ms
+
+Protocol:
+HTTP/2
+
+Server:
+nginx
+
+Content-Type:
+text/html
+
+Content-Length:
+84 KB
+Advanced mode
+
+Headers:
+
+server
+content-type
+cache-control
+location
+etag
+content-encoding
+strict-transport-security
+x-frame-options
+Status explanation
+
+If:
+
+404
+
+Show:
+
+404 Not Found
+
+The server responded successfully, but the requested resource doesn't exist.
+
+If:
+
+301
+
+Show:
+
+301 Permanent Redirect
+
+etc.
+
+Bulk checker
+
+This is important for SEO users.
+
+Upload:
+
+100 URLs
+
+Output:
+
+URL	Status	Response	Time
+/about	200	OK	120ms
+/old-page	301	Redirect	180ms
+/missing	404	Not Found	95ms
+
+Export CSV.
+
+Killer feature
+
+SEO status audit
+
+Automatically classify:
+
+🟢 200
+
+🟡 3xx
+
+🔴 4xx
+
+🔴 5xx
+
+Then show:
+
+12 broken URLs found
+
+Verdict
+
+🟢 VALIDATED
+
+I'd probably combine this with the redirect checker into a broader URL Diagnostics site rather than creating two completely separate websites.
+
+
+
+
+
+
+
+
+1. Font Identifier from Image
+⭐ My #1 opportunity
+
+This has exceptionally clear search intent.
+
+Someone sees a font and asks:
+
+"What font is this?"
+
+That is an extremely good micro-tool problem.
+
+Demand validation
+
+Fontspring is a particularly useful validation source because its traffic is heavily tied to font discovery.
+
+In June 2026:
+
+910K total visits
+383K organic visits
+font finder — 90,500 US searches
+what font is this — 49,500
+what the font — 74,000
+font identifier from image — 18,100
+
+Fontspring ranks #3 for both font finder and what font is this, and #3 for font identifier from image.
+
+That's exactly the kind of evidence we're looking for: a relevant competitor receiving hundreds of thousands of organic visits from the actual problem cluster.
+
+There's additional validation from the ecosystem:
+
+WhatFontIs: 1.94M visits/month.
+Identifont: 236K visits/month, and it appears as a direct competitor to Fontspring/Fontsinuse.
+Fontsinuse: 366K organic visits/month, with Google organic accounting for 46.88% of its traffic.
+Core keywords
+font finder
+font identifier
+font identifier from image
+what font is this
+what font is this image
+identify font
+identify font from image
+font finder from image
+find font from image
+font recognition
+font recognition from image
+what the font
+Tool
+Font Identifier
+
+Upload:
+
+screenshot
+logo
+poster
+website screenshot
+photograph
+scanned document
+
+Then:
+
+Step 1 — Detect text
+
+Automatically find text regions.
+
+Step 2 — Identify font
+
+Return:
+
+Likely match
+
+Montserrat SemiBold — 92%
+
+Then:
+
+Alternatives
+
+Gotham — 86%
+
+Proxima Nova — 81%
+
+Poppins — 76%
+
+Step 3 — Compare
+
+Show the uploaded text and candidate fonts side-by-side.
+
+Features I'd include
+Image tools
+crop before identification
+rotate
+zoom
+contrast
+sharpen
+grayscale
+perspective correction
+
+This matters because poor screenshots make font identification harder.
+
+Detection
+
+Identify multiple text regions:
+
+Image
+
+[Headline] → Font A
+[Subtitle] → Font B
+[Body] → Font C
+Results
+
+For each candidate:
+
+font name
+weight
+style
+foundry
+free/commercial
+Google Fonts equivalent
+similarity score
+preview
+alternatives
+Killer feature
+"Find a Free Alternative"
+
+If the image appears to use a commercial font:
+
+Likely font: Gotham Bold
+
+Then:
+
+Free alternatives: Montserrat, Poppins, League Spartan
+
+That gives the user an immediate practical answer.
+
+Another killer feature
+
+Website screenshot mode
+
+Paste screenshot → automatically identify the fonts used in the UI.
+
+Technical difficulty
+
+Medium–Hard
+
+Font recognition is the difficult part.
+
+You can start with image preprocessing + an existing font-recognition API/model, then build your own database over time.
+
+Verdict
+
+🟢 VALIDATED
+
+Best opportunity in this category.
+
+
+
+
+
+1. Image Color Picker
+Core problem
+
+"What color is this part of the image?"
+
+This is one of the cleanest micro-tool intents in the entire category.
+
+Demand validation
+
+image color picker has approximately 12,100 US monthly searches in the current Semrush data.
+
+More importantly, pickcoloronline.com ranks #7 for image color picker and gets approximately 60.9K organic visits/month overall. It also ranks #1 for color picker from screen and #2 for color picker online.
+
+A second relevant specialist, rgbcolorpicker.com, receives approximately 75.98K organic visits/month, with rgb color picker alone generating substantial traffic.
+
+And imagecolorpicker.com is estimated at roughly 2.9M monthly visits, with search accounting for about 47% of traffic.
+
+So this is very clearly validated.
+
+Main keywords
+image color picker
+color picker from image
+pick color from image
+image color picker online
+pick color from photo
+color picker from screenshot
+pick color from screenshot
+extract color from image
+color picker from screen
+online color picker
+color picker online
+Tool
+Image Color Picker
+
+Upload:
+
+JPG
+PNG
+WebP
+GIF
+screenshot
+logo
+photo
+
+Then click anywhere.
+
+Return:
+
+HEX
+#3A7BD5
+
+RGB
+58, 123, 213
+
+HSL
+214°, 65%, 53%
+
+HSV
+214°, 73%, 84%
+Essential features
+drag & drop
+paste screenshot
+image zoom
+pixel magnifier
+eyedropper
+click-to-copy
+color history
+multiple saved colors
+cursor coordinates
+HEX/RGB/HSL/HSV
+transparent PNG support
+The feature I'd use to beat existing tools
+🎨 Smart Palette
+
+After picking one color:
+
+Generate palette from this image
+
+Automatically extract:
+
+dominant colors
+accent colors
+light colors
+dark colors
+complementary colors
+Developer mode
+
+Generate:
+
+--primary: #3A7BD5;
+--secondary: #E76F51;
+
+Also:
+
+JSON
+Tailwind
+SCSS
+RGB
+HSL
+Privacy angle
+
+Process the image entirely in-browser.
+
+That's already becoming a common differentiator in image-color tools, because users can work with screenshots and unreleased designs without uploading them.
+
+Verdict
+
+🟢 FULLY VALIDATED
+
+This is my #1 opportunity.
+
+🥈 2. Color Palette Generator
+Core problem
+
+"Give me a good color palette."
+
+This is much larger than a niche utility.
+
+Demand validation
+
+Coolors is the strongest validation here.
+
+It gets approximately:
+
+5.2M visits/month
+
+and 2.71M organic visits/month.
+
+Its US organic keywords include:
+
+color palette — 110,000 searches/month
+color palette generator — 74,000
+colors — 165,000
+
+with Coolors ranking #1 for both color palette and color palette generator.
+
+And this isn't a one-competitor anomaly.
+
+Semrush identifies:
+
+HTML Color Codes — 2.8M visits
+Color Meanings — 281K visits
+
+as major competitors in the same audience.
+
+Color-hex also receives over 1M organic search visits/month in Ahrefs' current data and ranks for color palette, hex color palette, etc.
+
+Main keywords
+color palette generator
+color palette
+color scheme generator
+color scheme generator
+color combination generator
+color combinations
+color palette maker
+color palette creator
+color palette ideas
+generate color palette
+Tool
+Color Palette Generator
+
+Input:
+
+Option A
+
+Choose a base color:
+
+#3A7BD5
+
+Generate:
+
+complementary
+analogous
+triadic
+split complementary
+tetradic
+monochromatic
+Option B
+
+Generate randomly.
+
+Option C
+
+Generate from an image.
+
+Features
+Palette modes
+
+Random
+
+Generate new palettes instantly.
+
+Harmony
+
+complementary
+analogous
+triadic
+tetradic
+monochromatic
+
+Mood
+
+luxury
+minimalist
+retro
+pastel
+vibrant
+dark
+nature
+corporate
+gaming
+Controls
+hue
+saturation
+brightness
+number of colors
+contrast
+temperature
+Export
+HEX
+RGB
+HSL
+CSS variables
+SCSS
+Tailwind
+JSON
+PNG palette
+Killer feature
+"Make it usable"
+
+Don't just generate five pretty colors.
+
+Generate:
+
+Primary
+Secondary
+Background
+Surface
+Text
+Muted
+Border
+Success
+Warning
+Error
+
+Then preview the entire UI.
+
+That's a much stronger product than another random palette generator.
+
+Another killer feature
+
+Generate a palette from a single color.
+
+User enters:
+
+#FF5733
+
+Tool generates a complete design system.
+
+Verdict
+
+🟢 FULLY VALIDATED
+
+However:
+
+🔴 Competition is high.
+
+This is a high-demand opportunity, not necessarily the easiest one to rank for.
+
+🥉 3. Color Palette from Image
+
+This is the interesting sleeper.
+
+It is related to #1, but the intent is different.
+
+User intent
+
+"I have this image. Give me its colors."
+
+Instead of:
+
+"Pick one color."
+
+Search ecosystem
+
+There is now a growing collection of dedicated tools around this exact workflow:
+
+ColorKit
+W3Schools
+ColorScreens
+ZeroServer
+SimplePixelArt
+Toololis
+WebColorTools
+MakeMyPalette
+SharpDev
+
+For example, ColorKit lets users extract 2–10 colors, manually reposition color points, copy HEX values, and export palettes.
+
+W3Schools now has a dedicated Color Palette from Image tool with configurable color count and CSS/JSON export.
+
+ColorScreens goes further by assigning extracted colors to roles such as background/text and checking contrast.
+
+BUT — important
+
+I do not yet have sufficiently strong direct traffic evidence for the exact color palette from image keyword cluster.
+
+There are many competitors, but that's not enough under your rules.
+
+Therefore:
+
+🟡 PROMISING — NOT FULLY VALIDATED YET
+
+Keyword cluster
+color palette from image
+image color palette
+extract colors from image
+extract color palette from image
+image palette generator
+color palette extractor
+image color extractor
+get colors from image
+find colors in image
+palette from photo
+color palette from photo
+image to color palette
+Tool
+Color Palette From Image
+
+Upload:
+
+photo.jpg
+
+Output:
+
+Dominant Colors
+
+#183B56
+#2F6690
+#3C6E71
+#D9D9D9
+#F2E9E4
+Features
+2–20 colors
+dominant colors
+accent colors
+saturation sorting
+light/dark sorting
+manually pick colors
+HEX
+RGB
+HSL
+percentage coverage
+CSS
+Tailwind
+JSON
+PNG swatch
+The big differentiator
+
+Don't only calculate dominant colors.
+
+Generate:
+
+Design Palette
+Primary
+#2F6690
+
+Secondary
+#3C6E71
+
+Background
+#F2E9E4
+
+Surface
+#FFFFFF
+
+Text
+#183B56
+
+Accent
+#D9A441
+
+Then:
+
+Preview
+
+Show a mini website using the extracted palette.
+
+That turns a simple image analyzer into a useful design tool.
+
+Another excellent feature
+
+Click-to-refine
+
+Let the user click anywhere on the image:
+
+"Use this color instead."
+
+This addresses the biggest weakness of automatic palette extraction:
+
+the mathematically dominant color isn't necessarily the color the designer actually wants.
+
+ColorKit already demonstrates this interaction by allowing users to drag color points around the image.
+
+Verdict
+
+🟡 High potential, but I would validate the exact keyword ecosystem in Ahrefs before committing.
+
+4. HEX / RGB / HSL Color Converter
+
+This is the less glamorous but very dependable utility.
+
+Core problem
+
+"Convert this color value into another format."
+
+Demand validation
+
+The broader color-code ecosystem is enormous.
+
+Color-hex receives approximately 1.1–1.2M organic search visits/month in current Ahrefs data. It ranks for:
+
+hex color — 60K US volume
+color hex — 19K
+hex colors — 28K
+hex color palette — 6K
+
+with substantial traffic from each.
+
+And ColorHex's Semrush snapshot showed 2.27M organic visits/month with hex color, color hex, and hex color code among its leading keywords.
+
+So the underlying color-code search ecosystem is absolutely real.
+
+Keywords
+hex to rgb
+rgb to hex
+hex to hsl
+hsl to hex
+rgb to hsl
+hsl to rgb
+color converter
+hex converter
+rgb converter
+color code converter
+hex color converter
+color format converter
+Tool
+Color Converter
+
+Input:
+
+#3A7BD5
+
+Output:
+
+HEX
+#3A7BD5
+
+RGB
+58, 123, 213
+
+HSL
+214°, 65%, 53%
+
+HSV
+214°, 73%, 84%
+
+CMYK
+73, 42, 0, 16
+
+OKLCH
+...
+Features
+HEX
+RGB
+RGBA
+HSL
+HSLA
+HSV
+CMYK
+OKLCH
+HWB
+Live editing
+
+Change:
+
+R: 58 → 100
+
+and everything updates immediately.
+
+Color preview
+
+Show:
+
+████████████
+#3A7BD5
+Reverse conversion
+
+Paste:
+
+rgb(58,123,213)
+
+→ all formats.
+
+Batch mode
+
+Paste:
+
+#FF0000
+#00FF00
+#0000FF
+
+→ convert all three.
+
+Developer output
+
+Generate:
+
+color: rgb(58, 123, 213);
+
+or:
+
+color: oklch(...);
+Killer feature
+Explain the color
+
+Instead of only converting:
+
+#3A7BD5
+
+show:
+
+Blue
+
+Hue: 214°
+
+Saturation: 65%
+
+Lightness: 53%
+
+Then:
+
+Closest named color: Royal Blue
+
+Verdict
+
+🟢 VALIDATED
+
+But competition is significant because the same search ecosystem is served by ColorHex, HTML Color Codes, ColorHexa, etc.
+
+
+
+
+
+
+1. SVG Viewer / Inspector
+⭐ Best opportunity
+
+This is probably the strongest pure SVG utility opportunity I found.
+
+Demand validation
+
+The evidence is unusually clean.
+
+svgviewer.dev received:
+
+654.69K visits in June 2026
+95.8K organic search visits
+Google organic = 53.09% of total traffic
+
+And its traffic is directly tied to SVG-related searches. Its top Indian keywords included:
+
+Keyword	Volume	Position
+svg viewer	8,100	#1
+svg editor	5,400	#1
+svg viewer online	2,400	#1
+svg code	1,900	#1
+svg editor online	1,900	#1
+
+Even better, the site continued to perform strongly in July, with about 797.8K total visits and 88.6K organic visits.
+
+That's exactly the kind of validation we want:
+
+A specialist SVG utility is receiving substantial organic traffic from the exact problem cluster.
+
+Keyword cluster
+svg viewer
+svg viewer online
+view svg
+open svg online
+svg file viewer
+svg editor
+svg editor online
+svg code viewer
+svg inspector
+svg preview
+Tool
+SVG Viewer + Inspector
+
+User drops:
+
+logo.svg
+
+Immediately display:
+
+Visual preview
+
+with:
+
+transparent/white/black background
+zoom
+pan
+fullscreen
+checkerboard background
+SVG information
+File: logo.svg
+
+Width: 512
+Height: 512
+
+ViewBox:
+0 0 512 512
+
+Elements:
+42
+
+Paths:
+31
+
+Groups:
+7
+
+File size:
+18.4 KB
+The feature that makes this much better
+🔍 SVG Inspector
+
+Click an element in the rendered SVG.
+
+Highlight it and show:
+
+<path
+  fill="#3A7BD5"
+  d="..."
+/>
+
+Then:
+
+element type
+fill
+stroke
+stroke width
+coordinates
+class
+ID
+attributes
+
+This turns a simple viewer into a developer/design diagnostic tool.
+
+Code view
+
+Tabs:
+
+Preview
+Code
+Inspector
+Info
+
+Code:
+
+Syntax highlighting + formatting + copy.
+
+Extra features
+Background
+Transparent
+White
+Black
+Custom
+Rendering comparison
+Original
+Optimized
+Export
+PNG
+JPG
+WebP
+Security/privacy
+
+Process everything in-browser.
+
+No SVG uploaded to a server.
+
+Killer feature
+"What's wrong with this SVG?"
+
+Automatically detect:
+
+missing viewBox
+fixed width/height
+excessive decimal precision
+embedded raster images
+unnecessary metadata
+huge path count
+invisible elements
+duplicate IDs
+styles that may break when embedded
+
+That could naturally link into an SVG optimizer.
+
+Verdict
+
+🟢 FULLY VALIDATED
+
+9.2/10
+
+This is the one I'd investigate first.
+
+🥈 2. Favicon Generator
+
+This is technically an icon utility, but it fits the category extremely well.
+
+And unlike some of the more speculative SVG ideas, the demand evidence is very strong.
+
+Demand validation
+Favicon.io
+
+Approximately:
+
+145K organic search visits/month
+
+in June 2026.
+
+Google accounts for approximately 50.24% of its total traffic.
+
+Another specialist:
+
+RealFaviconGenerator
+
+Approximately:
+
+71.3K organic visits/month
+
+and its top US keywords include:
+
+Keyword	US Volume	Position
+favicon generator	12,100	#1
+favicon	22,200	#2
+favicon gene...	2,900	#1
+icon checker	3,600	#1
+
+And a third relevant competitor:
+
+favicon-generator.org
+
+Approximately:
+
+16.28K organic visits/month
+
+and 71.9K total visits/month.
+
+So we have multiple relevant competitors with meaningful organic traffic.
+
+🟢 Demand absolutely validated.
+
+Keyword cluster
+favicon generator
+favicon maker
+favicon creator
+favicon generator online
+create favicon
+make favicon
+favicon from image
+png to favicon
+svg to favicon
+favicon ico
+favicon generator for website
+Tool
+Complete Favicon Generator
+
+Upload:
+
+logo.png
+
+Output:
+
+favicon.ico
+favicon-16x16.png
+favicon-32x32.png
+favicon-48x48.png
+apple-touch-icon.png
+android-chrome-192x192.png
+android-chrome-512x512.png
+
+Plus:
+
+site.webmanifest
+
+And generate the HTML:
+
+<link rel="icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+Better UX
+
+Don't make it:
+
+Upload → Download
+
+Give the user a preview.
+
+Browser tab preview
+┌──────────────────────────────┐
+│ 🟦 My Website                │
+└──────────────────────────────┘
+Mobile preview
+
+Show:
+
+iOS
+Android
+Chrome
+desktop browser
+Features
+Input
+PNG
+JPG
+SVG
+WebP
+Controls
+crop
+padding
+background
+rounded corners
+background color
+transparency
+resize
+Output
+ICO
+PNG
+Apple Touch
+Android
+PWA manifest
+Developer output
+
+Generate complete:
+
+<head>
+...
+</head>
+
+snippet.
+
+Killer feature
+Favicon Quality Checker
+
+Upload an existing favicon.
+
+Tell the user:
+
+✓ 32×32 detected
+✓ 16×16 detected
+✓ ICO valid
+
+⚠ Missing Apple Touch Icon
+⚠ Missing Web App Manifest
+
+That creates a second search/product intent:
+
+favicon checker
+favicon validator
+check favicon
+favicon test
+Verdict
+
+🟢 FULLY VALIDATED
+
+8.9/10
+
+The demand is indisputable.
+
+The downside is that the main favicon generator SERP already has strong competitors.
+
+🥉 3. SVG Optimizer / Compressor
+
+This one is particularly interesting for your model.
+
+The problem:
+
+"My SVG file is unnecessarily large. Make it smaller."
+
+Demand validation
+
+The competitor ecosystem is clearly established:
+
+SVGOMG
+
+The popular web GUI for SVGO.
+
+It lets users:
+
+open/paste SVG
+change optimization settings
+preview the result
+copy optimized markup
+download the result
+
+There are also newer competitors specifically building on this demand, such as Bytefork's SVG optimizer, which directly positions itself against SVGOMG and SVGO.
+
+The broader optimization ecosystem is also strong enough that multiple tools and guides are specifically targeting SVG optimization.
+
+Important caveat
+
+I could not obtain sufficiently reliable current organic-traffic numbers for SVGOMG/SVGO themselves from the available public results.
+
+Therefore I would not claim the exact keyword cluster is as strongly traffic-validated as SVG Viewer or Favicon Generator.
+
+However, the existence of multiple specialized tools plus the developer ecosystem makes it a strong candidate for further Ahrefs validation.
+
+So:
+
+🟢 Strong opportunity
+
+🟡 Traffic validation less conclusive than #1/#2
+
+Keyword cluster
+svg optimizer
+optimize svg
+svg compressor
+compress svg
+svg minifier
+minify svg
+svg optimize online
+svg compressor online
+reduce svg size
+make svg smaller
+svg file size reducer
+Tool
+SVG Optimizer
+
+Upload:
+
+illustration.svg
+
+Output:
+
+Original:
+184 KB
+
+Optimized:
+72 KB
+
+Saved:
+112 KB
+
+Reduction:
+60.9%
+Optimization controls
+Basic
+remove metadata
+remove comments
+remove editor data
+remove hidden elements
+remove unused IDs
+Precision
+Decimal precision:
+0 ───────── 8
+Advanced
+collapse groups
+convert shapes to paths
+merge paths
+optimize transforms
+remove dimensions
+cleanup viewBox
+convert colors
+remove unnecessary attributes
+Killer feature
+Visual safety check
+
+Show:
+
+BEFORE              AFTER
+
+[SVG]               [SVG]
+
+Looks identical ✓
+
+And:
+
+No visible difference detected
+
+This matters because optimization can sometimes break complex SVGs.
+
+Another killer feature
+"Optimize for Web"
+
+One button.
+
+Automatically:
+
+remove editor metadata
+optimize paths
+reduce precision
+clean dimensions
+preserve viewBox
+preserve appearance
+
+Then provide:
+
+Download SVG
+Copy SVG code
+Copy optimized <svg>
+Verdict
+
+🟢 Potentially excellent
+
+But I would run Ahrefs keyword validation before committing.
+
+#4 SVG → PNG Converter
+
+This is a classic conversion intent.
+
+Core problem
+
+"I have an SVG but need a PNG."
+
+The demand is real, but this one has more competition.
+
+Demand evidence
+
+There are numerous dedicated SVG→PNG tools from established design/asset companies, including IconScout, as well as standalone converter sites. IconScout explicitly offers SVG-to-PNG as one of its tools.
+
+There are also many newer tool suites specifically adding SVG→PNG as a standalone utility.
+
+However, the current public results I could access didn't give me a sufficiently clean specialist competitor organic-traffic number tied specifically to the SVG→PNG page.
+
+Therefore:
+
+🟡 Demand likely strong, but direct traffic validation weaker than #1/#2.
+
+I would validate the exact keywords in Ahrefs before building it as a standalone site.
+
+Keyword cluster
+svg to png
+svg to png converter
+convert svg to png
+svg png converter
+svg to png online
+convert svg image to png
+svg to png transparent
+svg to png high resolution
+svg to png batch
+Tool
+SVG to PNG Converter
+
+Upload multiple SVGs.
+
+For each:
+
+SVG
+↓
+PNG
+Controls
+
+Width
+
+1920
+
+Height
+
+1080
+
+Scale
+
+1x / 2x / 3x / 4x
+
+Background
+
+transparent
+white
+custom
+
+Quality
+
+standard
+high
+maximum
+Batch
+logo.svg
+icon.svg
+hero.svg
+      ↓
+logo.png
+icon.png
+hero.png
+
+ZIP download.
+
+Killer feature
+Exact-size export
+
+Instead of merely converting:
+
+Export at 1200 × 630
+
+or:
+
+Export at 1080 × 1080
+
+or:
+
+Export at 1920 × 1080
+
+This makes it useful for social media, OG images, presentations, etc.
+
+Verdict
+
+🟢 Likely strong demand
+
+🟡 Needs more direct SERP/traffic validation
+
+8.1/10
+
+
+
+
+
+
+
+
+
+1. YouTube Transcript Extractor / Downloader
+⭐ Clear #1
+
+This is by far the strongest opportunity I found.
+
+Demand validation
+
+The evidence is excellent.
+
+YouTube-Transcript.io
+
+Current Semrush data shows:
+
+1.36M total visits/month
+175.56K organic search visits/month
+7,064 organic keywords
+Google is the site's #2 traffic source
+youtube transcript generator — 27,100 US searches/month, ranking #3
+youtube video transcript — 14,800, ranking #2
+youtube transcript — 60,500, ranking #2
+transcript youtube — 9,900, ranking #2
+
+That's almost a textbook validation case.
+
+And there is another major competitor:
+
+YouTubeToTranscript.com
+
+Current estimates show:
+
+779K organic search visits/month
+3,238 ranking keywords
+roughly 6M total visits/month in the latest snapshot
+
+So this isn't:
+
+"One random tool happens to rank."
+
+We have multiple specialist competitors receiving substantial organic traffic from the exact problem space.
+
+🟢 FULLY VALIDATED
+Core keyword cluster
+youtube transcript
+youtube transcript generator
+youtube video transcript
+youtube transcript downloader
+youtube transcript extractor
+youtube to transcript
+transcript youtube
+youtube video to text
+youtube transcript online
+get transcript from youtube video
+youtube transcript copy
+youtube transcript converter
+
+The strongest confirmed terms include:
+
+Keyword	US volume
+youtube transcript	60,500
+youtube transcript generator	27,100
+youtube video transcript	14,800
+transcript youtube	9,900
+
+Tool I'd build
+YouTube Transcript Extractor
+
+Paste:
+
+https://youtube.com/watch?v=...
+
+↓
+
+Instantly generate:
+
+Transcript
+00:00
+Today we're going to talk about...
+
+00:14
+The first thing you need to understand...
+Essential features
+1. Timestamped transcript
+
+Every paragraph clickable:
+
+Click → jump to that moment on YouTube.
+
+2. Clean transcript
+
+Automatically remove:
+
+duplicate phrases
+excessive line breaks
+caption artifacts
+unnecessary timestamps
+3. Search
+Search transcript...
+
+Highlight every occurrence.
+
+4. Copy
+
+Buttons:
+
+Copy transcript
+
+Copy with timestamps
+
+Copy plain text
+
+Download formats
+TXT
+SRT
+VTT
+Markdown
+PDF
+DOCX
+5. AI summary
+
+Optional:
+
+Summarize this video
+
+Generate:
+
+5 bullet summary
+detailed summary
+key takeaways
+chapter outline
+
+But I'd keep transcript extraction as the core SEO product, rather than making it another generic AI summarizer.
+
+Killer feature
+Transcript → Content
+
+One click:
+
+YouTube Video
+      ↓
+Transcript
+      ↓
+ ┌───────────────┐
+ │ Summary       │
+ │ Key points    │
+ │ Blog outline  │
+ │ X thread      │
+ │ LinkedIn post │
+ │ Shorts ideas  │
+ │ Quote finder  │
+ └───────────────┘
+
+That makes the tool extremely attractive to creators, researchers and content marketers.
+
+Competitor gap
+
+Most basic transcript tools essentially do:
+
+URL → transcript.
+
+You can make yours:
+
+URL → searchable transcript → timestamps → summary → repurposing.
+
+Verdict
+🟢 9.5/10 — BUILD
+
+This is the strongest validated opportunity in this category.
+
+🥈 2. YouTube Thumbnail Downloader / Extractor
+
+This is another very attractive micro-tool because the technical implementation is trivial but the search intent is extremely clear.
+
+Demand validation
+
+Here I found an interesting situation.
+
+There are many competitors, but some are weak.
+
+For example:
+
+yt-thumbnails-downloader.com
+
+Only around:
+
+19 estimated organic visits
+105 ranking keywords
+
+That competitor does NOT validate demand.
+
+Similarly:
+
+youtube-thumbnail-dl.com
+
+Only:
+
+7 organic visits
+6 ranking keywords
+
+Again:
+
+Not validation.
+
+But there are stronger signals.
+
+thumbnaildown.com
+
+Current estimates:
+
+382 ranking keywords
+1,642 organic visits
+~1.4K monthly visitors in the latest period
+
+And importantly, the search ecosystem has enough activity that a recent Reddit case study reported a YouTube thumbnail downloader becoming the single largest source of search impressions on a developer's site, generating 1.4M impressions on one query.
+
+That's not the same quality of evidence as the transcript category, but it's meaningful supporting evidence.
+
+🟢 VALIDATED — but not as strongly as transcript extraction.
+Keywords
+youtube thumbnail downloader
+youtube thumbnail download
+youtube thumbnail extractor
+download youtube thumbnail
+youtube thumbnail grabber
+youtube thumbnail viewer
+youtube thumbnail image
+youtube thumbnail url
+get youtube thumbnail
+youtube thumbnail downloader hd
+youtube thumbnail downloader 4k
+Tool
+YouTube Thumbnail Downloader
+
+Paste:
+
+https://youtube.com/watch?v=XXXXXXXX
+
+Immediately extract:
+
+Available thumbnails
+1280 × 720
+640 × 360
+480 × 360
+320 × 180
+120 × 90
+
+Show previews.
+
+Features
+Download
+JPG
+PNG
+WebP
+Resolution
+maximum
+1280×720
+640×360
+480×360
+custom
+Thumbnail types
+
+If available:
+
+maxresdefault
+sddefault
+hqdefault
+mqdefault
+default
+Shorts
+
+Accept:
+
+youtube.com/shorts/...
+Multiple videos
+
+Paste:
+
+URL 1
+URL 2
+URL 3
+URL 4
+
+→ download all thumbnails.
+
+Killer feature
+Thumbnail Research Mode
+
+Don't just download it.
+
+Show:
+
+YouTube preview
+
+Home
+
+Search
+
+Suggested
+
+Mobile
+
+Then let the creator inspect:
+
+dimensions
+text readability
+face placement
+dominant colors
+contrast
+safe areas
+
+This turns a commodity downloader into a creator research utility.
+
+Another killer feature
+Thumbnail URL extractor
+
+Return direct URLs:
+
+Max resolution:
+...
+
+Standard:
+...
+
+Medium:
+...
+
+One-click copy.
+
+Verdict
+🟢 9.0/10
+
+Good micro-tool opportunity.
+
+However, I'd still run the exact keyword cluster through Ahrefs before starting development because the public traffic data for individual competitors is less consistent than for transcripts.
+
+🥉 3. YouTube Thumbnail Tester / Previewer
+
+This one is very interesting, especially for your type of product.
+
+Core problem
+
+A creator has a thumbnail and wants to know:
+
+"How will this actually look on YouTube?"
+
+Not:
+
+"Make me a thumbnail."
+
+That distinction is important.
+
+Demand validation
+
+There are dedicated products targeting this exact workflow.
+
+SoNuker's thumbnail downloader includes a YouTube Display Preview showing thumbnails in:
+
+Home Feed
+Search Results
+Suggested Videos
+
+and supports bulk research.
+
+There are also dedicated YouTube thumbnail tester tools targeting this workflow.
+
+BUT:
+
+I don't currently have sufficiently strong independent organic-traffic numbers for the specialist thumbnail tester pages themselves.
+
+Therefore, under your rules:
+
+🟡 NOT FULLY VALIDATED YET
+
+The problem is clearly real.
+
+The opportunity looks good.
+
+But I would not call it validated until Ahrefs confirms the keyword cluster and competitor traffic.
+
+Keywords to validate
+youtube thumbnail tester
+youtube thumbnail test
+thumbnail tester youtube
+youtube thumbnail preview
+youtube thumbnail checker
+youtube thumbnail analyzer
+youtube thumbnail simulator
+youtube thumbnail size checker
+youtube thumbnail preview tool
+Tool
+YouTube Thumbnail Tester
+
+Upload:
+
+thumbnail.jpg
+
+Then show:
+
+YouTube Home
+┌──────────────────────────────┐
+│                              │
+│        THUMBNAIL             │
+│                              │
+└──────────────────────────────┘
+
+Video Title
+Channel • 120K views • 2 days ago
+Search
+Suggested
+Mobile
+Features
+Device previews
+desktop
+mobile
+TV
+Placement previews
+Home
+Search
+Suggested
+Channel
+Title preview
+
+Let user enter:
+
+I Tried Building a Website in 24 Hours
+
+Then display actual title + thumbnail together.
+
+This is important because thumbnail and title are a single click decision.
+
+Killer feature
+Thumbnail comparison
+
+Upload:
+
+A
+
+and
+
+B
+
+Then:
+
+A                  B
+
+[image]            [image]
+
+Text readability   Text readability
+Face visibility    Face visibility
+Contrast           Contrast
+Mobile visibility  Mobile visibility
+
+I'd avoid pretending to predict CTR with fake precision.
+
+Instead provide objective checks.
+
+Verdict
+🟡 8.5/10 potential
+
+Validate keywords first.
+
+4. YouTube Tag / Keyword Generator
+
+This is validated, but I rank it below the thumbnail tools because of the competitive landscape and the changing importance of YouTube tags.
+
+Demand validation
+
+There is an unusually large ecosystem of competing tools:
+
+vidIQ
+RapidTags
+TagYeti
+Keyword Everywhere
+TubeBuddy
+numerous independent tools
+
+For example, TagYeti currently states:
+
+51K/mo searches for its YouTube Tag Generator.
+
+It also reports:
+
+4.2M+ tags generated
+128K+ creators helped
+country/language targeting
+keyword difficulty
+tag extraction
+
+And vidIQ itself has a dedicated free YouTube Tag Generator.
+
+RapidTags is another dedicated competitor using YouTube autocomplete/search data plus semantic expansion.
+
+So the problem is unquestionably real.
+
+🟢 VALIDATED
+Tool
+YouTube Keyword + Tag Generator
+
+Input:
+
+How to edit videos
+
+Output:
+
+Primary
+how to edit videos
+video editing
+video editing tutorial
+Long-tail
+how to edit videos for beginners
+how to edit videos on phone
+how to edit videos step by step
+Questions
+how do I edit YouTube videos
+what is the best video editor
+how to edit videos for YouTube
+Trending
+
+Current/recent variants.
+
+Features
+Country
+United States
+India
+UK
+Australia
+Canada
+Germany
+...
+Language
+English
+Hindi
+Spanish
+German
+...
+
+This is a particularly good differentiator because YouTube search intent varies heavily by market.
+
+Keyword data
+
+For each suggestion:
+
+Search volume
+Competition
+Trend
+Intent
+YouTube-specific
+tags
+title keywords
+Shorts keywords
+hashtags
+related searches
+Killer feature
+Keyword → Complete Video SEO Pack
+
+Input:
+
+study with me
+
+Output:
+
+Primary keyword
+Related keywords
+Long-tail keywords
+Title ideas
+Tags
+Hashtags
+Description keywords
+
+That creates a natural funnel from one search query.
+
+Verdict
+🟢 8.2/10
+
+Validated, but more competitive.

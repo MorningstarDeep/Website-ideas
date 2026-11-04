@@ -1,0 +1,34 @@
+# 33 shortlisted micro-tool seeds. seed<TAB>category
+gamepad tester	device
+keyboard tester	device
+webcam test	device
+microphone test	device
+speaker test	device
+headphone test	device
+surround sound test	device
+monitor test	device
+dead pixel test	device
+refresh rate test	device
+mouse tester	device
+touchscreen test	device
+image color picker	color
+color palette generator	color
+color palette from image	color
+hex to rgb	color
+image color changer	image
+merge images	image
+extract pages from pdf	pdf
+split pdf	pdf
+redirect checker	url
+http status checker	url
+url encoder	url
+is this website legit	url
+font identifier	font
+svg viewer	svg
+svg optimizer	svg
+svg to png	svg
+favicon generator	svg
+youtube transcript	youtube
+youtube thumbnail downloader	youtube
+youtube thumbnail tester	youtube
+youtube tag generator	youtube

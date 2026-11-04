@@ -1,0 +1,33 @@
+gamepad tester
+keyboard tester
+webcam test
+microphone test
+speaker test
+headphone test
+surround sound test
+monitor test
+dead pixel test
+refresh rate test
+mouse tester
+touchscreen test
+image color picker
+color palette generator
+color palette from image
+hex to rgb
+image color changer
+merge images
+extract pages from pdf
+split pdf
+redirect checker
+http status checker
+url encoder
+is this website legit
+font identifier
+svg viewer
+svg optimizer
+svg to png
+favicon generator
+youtube transcript
+youtube thumbnail downloader
+youtube thumbnail tester
+youtube tag generator
