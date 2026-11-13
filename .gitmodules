@@ -1,0 +1,3 @@
+[submodule "websites/01-mouse-tester"]
+	path = websites/01-mouse-tester
+	url = https://github.com/MorningstarDeep/mousetesteronline.git

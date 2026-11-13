@@ -11,6 +11,22 @@ websites/NN-slug/  one folder per site — open this folder to build that site
 _archive/          superseded research from an earlier track. Safe to delete.
 ```
 
+## ⚠ Two repos — commit every change to the right one
+
+This folder is shared with the team through **two** GitHub repos:
+
+| What changed | Repo | Notes |
+|---|---|---|
+| Anything in this folder **outside** a built site — `CLAUDE.md`, `SKILLS.md`, `research/`, a site's briefs before it has its own repo | **`MorningstarDeep/Website-ideas`** (this repo, public, team-shared) | commit + push here |
+| A built site's code — e.g. `websites/01-mouse-tester/` | **that site's own private repo** (`MorningstarDeep/mousetesteronline`) | Cloudflare Pages deploys from its `main`. Live site → branch → preview → merge |
+
+A built site sits here as a **git submodule** (see `.gitmodules`). After pushing site
+changes, update the pointer in this repo too: `git add websites/<slug>` → commit → push.
+Teammates: `git clone --recurse-submodules`, or `git submodule update --init` (needs access
+to the private site repo).
+
+`SKILLS.md` lists the Claude skills, plugins and MCPs to use when building a site.
+
 ## Read these first
 
 | File | What it is |
