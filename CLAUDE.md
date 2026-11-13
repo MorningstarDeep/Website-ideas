@@ -22,8 +22,25 @@ This folder is shared with the team through **two** GitHub repos:
 
 A built site sits here as a **git submodule** (see `.gitmodules`). After pushing site
 changes, update the pointer in this repo too: `git add websites/<slug>` → commit → push.
-Teammates: `git clone --recurse-submodules`, or `git submodule update --init` (needs access
-to the private site repo).
+Teammates: `git clone --recurse-submodules`, or `git submodule update --init` (needs
+collaborator access to the private site repo).
+
+When a new site gets its own deploy repo, register it here as a submodule — from this root:
+`git rm -r --cached websites/<folder>` then
+`git submodule add https://github.com/MorningstarDeep/<repo>.git websites/<folder>`.
+
+### "Done for the day"
+
+When the operator says **"done for the day"**, push the day's work to **both** repos:
+
+1. Site work that is **finished, gates green and checked on the Cloudflare branch preview** →
+   merge to the deploy repo's `main` and push. **`main` is live on the internet the moment it
+   is pushed — never put unfinished or unverified work there.**
+2. **Unfinished** site work → commit on its feature branch and push **the branch only** (its
+   preview is noindexed). Note in that site's `PROGRESS.md` which branch holds what.
+3. This repo: commit + push every portfolio-file change, and move each site's submodule
+   pointer — **only ever to a commit that is on the deploy repo's `main`**.
+4. `PROGRESS.md` gets its session-log line and next task in the same push.
 
 `SKILLS.md` lists the Claude skills, plugins and MCPs to use when building a site.
 
@@ -37,23 +54,13 @@ to the private site repo).
 | `research/06-CROSS-LINKING.md` | Whether/how the 19 sites may link to each other |
 | `websites/NN-slug/CLAUDE.md` | Per-site context, loaded automatically when that folder is open |
 
-## ⚠ Generated files — do not hand-edit
+## Site briefs are edited by hand
 
-`websites/*/BRIEF.md`, `websites/*/SEO-BRIEF.md`, `websites/*/CLAUDE.md` and
-`websites/*/.vscode/` are **generated**. Hand edits are wiped on the next run.
-
-To change them, edit the source and regenerate:
-
-```
-python research/make_sites.py demo    # self-check: all 34 tools map to exactly one site
-python research/make_sites.py         # regenerate all 19 folders
-```
-
-| Change this | To edit |
-|---|---|
-| `research/make_sites.py` | site list, build order, risk tiers, BRIEF body, CLAUDE.md body, .vscode config |
-| `research/seo_brief_body.py` | the 15-section SEO brief shared by all sites |
-| `research/gen_links.py` | keyword synonym groups, then `python gen_links.py` |
+`websites/*/BRIEF.md`, `SEO-BRIEF.md`, `CLAUDE.md` and `.vscode/` were created **once** by
+`research/make_sites.py` (one-time setup). **Do not re-run it** — it rewrites every site
+folder and would wipe the edits made since, including the live sites' hand-maintained files.
+To change a rule for every site, edit each site's file directly (and this file).
+`research/gen_links.py` still regenerates `research/synonym-groups.md` on its own.
 
 ## Portfolio-wide rules
 
